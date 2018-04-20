@@ -1,0 +1,1 @@
+> 使用gradle管理的scala工程,通过assembly命令可以打包所有依赖
